@@ -44,7 +44,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <script>
       document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'has-js ';
     </script>
-  <script charset="utf-8" src="/static/js/18.min.js"></script><script charset="utf-8" src="/static/js/26.min.js"></script><script charset="utf-8" src="/static/js/30.min.js"></script><script charset="utf-8" src="/static/js/27.min.js"></script><script charset="utf-8" src="/static/js/31.min.js"></script><script charset="utf-8" src="/static/js/37.min.js"></script><script charset="utf-8" src="/static/js/11.min.js"></script><script charset="utf-8" src="/static/js/20.min.js"></script><script charset="utf-8" src="/static/js/14.min.js"></script><script charset="utf-8" src="/static/js/17.min.js"></script><script charset="utf-8" src="/static/js/29.min.js"></script><script charset="utf-8" src="/static/js/32.min.js"></script></head>
+  <script charset="utf-8" src="https://tv.google/static/js/18.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/26.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/30.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/27.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/31.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/37.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/11.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/20.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/14.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/17.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/29.min.js"></script><script charset="utf-8" src="https://tv.google/static/js/32.min.js"></script></head>
 
   <body>
   
@@ -262,6 +262,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </ul>
     </section>
   </footer>      <script defer="" src="https://www.gstatic.com/external_hosted/animejs/anime.min.js"></script>
-      <script defer="" src="/static/js/base/main.min.js"></script>
+      <script defer="" src="https://tv.google/static/js/base/main.min.js"></script>
   
 </body></html>
